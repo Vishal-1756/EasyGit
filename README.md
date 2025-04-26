@@ -29,7 +29,7 @@ EasyGit is a powerful web application that provides an intuitive interface for m
 
 ### 2. Sign In to EasyGit
 
-1. Visit the GitHub Manager website
+1. Visit the EasyGit website
 2. Enter your GitHub username
 3. Paste your personal access token
 4. Click "Sign in"
