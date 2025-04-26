@@ -1,8 +1,8 @@
-# GitHub Manager
+# EasyGit
 
 ![GitHub Manager Banner](https://i.ibb.co/HfcXMMdh/bdaeebf5fd5f.jpg)
 
-GitHub Manager is a powerful web application that provides an intuitive interface for managing all your GitHub repositories in one place. It offers a streamlined workflow for repository management, visibility control, and bulk operations.
+EasyGit is a powerful web application that provides an intuitive interface for managing all your GitHub repositories in one place. It offers a streamlined workflow for repository management, visibility control, and bulk operations.
 
 ## 🌟 Key Features
 
@@ -27,7 +27,7 @@ GitHub Manager is a powerful web application that provides an intuitive interfac
 7. Click "Generate token"
 8. Copy the token immediately (you won't be able to see it again)
 
-### 2. Sign In to GitHub Manager
+### 2. Sign In to EasyGit
 
 1. Visit the GitHub Manager website
 2. Enter your GitHub username
